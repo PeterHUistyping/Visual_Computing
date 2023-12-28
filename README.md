@@ -52,6 +52,17 @@ In addition, there are also references (paper, ebook, repo, tool, etc) that's in
 
 ## Reference
 
+### Machine Visual Perception
+
+[MVP @ Cambridge part II](https://www.cl.cam.ac.uk/teaching/2324/MVP/materials.html)
+
+- NN
+- 3D Geometry Capture
+- Appearance Modelling, Acquisition, Relighting
+- Motion Modelling
+- Generative Modelling
+- Differentiable 3D Visual Computing
+
 ### Discrete Differential Geometry
 
 [CMU15-458_DDG](https://github.com/PeterHUistyping/CMU15-458_Differential_Geometry)
@@ -82,7 +93,11 @@ In addition, there are also references (paper, ebook, repo, tool, etc) that's in
 - NeRF
 - Color, Image Quality
 - VR/AR
-- 
+
+### Extended Reality
+
+[ER @ Cambridge part II](https://www.cl.cam.ac.uk/teaching/2324/ER/)
+
 ### Game Engine
 
 [👨‍💻Unreal Engine](https://www.unrealengine.com/en-US)

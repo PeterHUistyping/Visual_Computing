@@ -23,12 +23,11 @@ In addition, there are also references (paper, ebook, repo, tool, etc) that's in
 
 [MIT6.837-Computer-Graphics-Fall2004](https://github.com/PeterHUistyping/MIT6.837-CG-Fall2004-Assignment)
 
-- *Computer Graphics, MIT6.837*
+- *Computer Graphics, MIT6.837, C++ / OpenGL*
   - Self-similar Fractals
-  - Ray Tracer
-  - Graphics Pipeline
-  - OpenGL
-  - Acceleration Structure
+  - Ray Tracer, Graphics Pipeline
+  - Voxel rendering, Super sampling
+  - Acceleration Structure, Grid, k-d tree, BVH
   - and more ...
 
 ### Computer Vision
@@ -48,7 +47,7 @@ In addition, there are also references (paper, ebook, repo, tool, etc) that's in
 
 [LZSS on 3D Data @UKTechArena](https://github.com/PeterHUistyping/UKTechArena-3D_Graphics_Compression_Algorithm-Metaverse)
 
-- 6-level LZSS Compression with Serialisation, Delta Coding, Huffman Coding 
+- 6-level LZSS Compression with Serialisation, Delta Coding, Huffman Coding
 - [LZSS with Demo](https://github.com/PeterHUistyping/LZSS_with_Concurrent_Demo)
 
 ## Reference

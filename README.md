@@ -106,6 +106,8 @@ Matt Pharr, Wenzel Jakob, and Greg Humphreys
 - Light-field rendering
 - NeRF
 - Color, Image Quality
+  - Pixel-wise metric (MSE, PSNR)
+  - Texture quality metric (SSIM, Learned Perceptual Image Patch S)
 - VR/AR
 
 ### Extended Reality

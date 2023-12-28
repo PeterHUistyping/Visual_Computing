@@ -63,6 +63,10 @@ In addition, there are also references (paper, ebook, repo, tool, etc) that's in
 - Generative Modelling
 - Differentiable 3D Visual Computing
 
+### Computer Vision basics
+
+[First Principles of Computer Vision](https://www.youtube.com/@firstprinciplesofcomputerv3258/videos)
+
 ### Discrete Differential Geometry
 
 [CMU15-458_DDG](https://github.com/PeterHUistyping/CMU15-458_Differential_Geometry)
@@ -105,12 +109,14 @@ Matt Pharr, Wenzel Jakob, and Greg Humphreys
 
 ### Mathematics
 
-- [SVD (youtube)](https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv)
-- [Compression Sensing (youtube)](https://www.youtube.com/watch?v=aHCyHbRIz44&list=PLMrJAkhIeNNRHP5UA-gIimsXLQyHXxRty&index=22)
+Youtube Online Course, by Dr.Steve Brunton
+
+- [SVD](https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv)
+- [Compression Sensing](https://www.youtube.com/watch?v=aHCyHbRIz44&list=PLMrJAkhIeNNRHP5UA-gIimsXLQyHXxRty&index=22)
+- [Differential Equations and Dynamical Systems](https://www.youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA)
+- [Fourier Analysis](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC)
 
 ### Game Engine
 
 [👨‍💻Unreal Engine](https://www.unrealengine.com/en-US)
 Source code: https://docs.unrealengine.com/5.2/en-US/downloading-unreal-engine-source-code/
-
-

@@ -98,6 +98,12 @@ In addition, there are also references (paper, ebook, repo, tool, etc) that's in
 
 [ER @ Cambridge part II](https://www.cl.cam.ac.uk/teaching/2324/ER/)
 
+### Mathematics
+
+- [SVD (youtube)](https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv)
+- [Compression Sensing (youtube)](https://www.youtube.com/watch?v=aHCyHbRIz44&list=PLMrJAkhIeNNRHP5UA-gIimsXLQyHXxRty&index=22)
+
+
 ### Game Engine
 
 [👨‍💻Unreal Engine](https://www.unrealengine.com/en-US)

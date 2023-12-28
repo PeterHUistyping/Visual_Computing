@@ -1,10 +1,24 @@
 # Visual Computing
 
-A collection of my *Visual Computing Projects*, including Image Processing, Graphics, Vision, Game Engines and others.
+A collection of my *Visual Computing Projects*, including 
+- Image Processing
+- Graphics 
+- Vision
+- Game Engines and others.
+
+| I\O                 | Image                     | Knowledge                |
+| ------------------- | ------------------------- | ------------------------ |
+| **Image**     | Image Processing | Computer Vision          |
+| **Knowledge** | Computer Graphics         | Aritificial Intelligence |
+
+![Relationship_CV](Asset/Relationship_CV.png)
 
 In addition, there are also references (paper, ebook, repo, tool, etc) that's interesting and helpful, ranging from beginner to advanced.
 
 ## My Projects
+
+
+
 
 ### Graphics and Rendering
 
@@ -15,9 +29,23 @@ In addition, there are also references (paper, ebook, repo, tool, etc) that's in
   - Ray Tracer
   - Graphics Pipeline
   - OpenGL
-  - Acceleration
+  - Acceleration Structure
   - and more ...
 
+### Computer Vision
+
+
+*Theoretical Computer Vision with Problems Sets, Stanford CS231n*
+
+[DL-for-CV-Stanford_CS231n](https://github.com/PeterHUistyping/Stanford_CS231n-Deep_Learning-for-Computer_Vision/)
+
+- Image Classification (Supervised Learning, Discrete label)
+  - kNN
+  - Softmax
+  - classifier SVM classifier
+  - CNN
+  - Cross Validation
+  
 ## Reference
 
 ### Game Engine

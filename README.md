@@ -45,6 +45,11 @@ In addition, there are also references (paper, ebook, repo, tool, etc) that's in
 
 ### Compression
 
+- Delta Coding, Huffman Coding
+- Run-length Encoding
+- Arithmetic Coding
+- [DEFLATE](https://en.wikipedia.org/wiki/DEFLATE "DEFLATE") = LZ77 + Huffman Coding
+
 [LZSS on 3D Data @UKTechArena](https://github.com/PeterHUistyping/UKTechArena-3D_Graphics_Compression_Algorithm-Metaverse)
 
 - 6-level LZSS Compression with Serialisation, Delta Coding, Huffman Coding

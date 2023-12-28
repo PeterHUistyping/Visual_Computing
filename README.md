@@ -52,6 +52,31 @@ In addition, there are also references (paper, ebook, repo, tool, etc) that's in
 
 ## Reference
 
+### Discrete Differential Geometry
+
+[CMU15-458_DDG](https://github.com/PeterHUistyping/CMU15-458_Differential_Geometry)
+
+- Exterior Calculus
+- Smoothing Surface / Curve
+- Laplace operator
+- Parameterization
+
+### Digital Signal Processing
+
+[DSP @ Cambridge part II](https://www.cl.cam.ac.uk/teaching/2324/DSP/)
+
+- Convolution, Deconvolution
+- FT, DFT, FFT
+- Z-transform, Laplace transform
+- Digital Filters
+- PCA / K-L transform
+- JEPG (DCT, Quantization, Compression)
+  
+### Advanced Graphics and Image Processing
+
+[AGIP @ Cambridge part II](https://www.cl.cam.ac.uk/teaching/2324/AGIP/)
+
+- 
 ### Game Engine
 
 [👨‍💻Unreal Engine](https://www.unrealengine.com/en-US)

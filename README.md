@@ -76,6 +76,12 @@ In addition, there are also references (paper, ebook, repo, tool, etc) that's in
 
 [AGIP @ Cambridge part II](https://www.cl.cam.ac.uk/teaching/2324/AGIP/)
 
+- Convolution, Filter (edge-aware)
+- Ray Tracing, BRDF, GI
+- Light-field rendering
+- NeRF
+- Color, Image Quality
+- VR/AR
 - 
 ### Game Engine
 

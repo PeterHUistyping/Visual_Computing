@@ -42,6 +42,10 @@ In addition, there are also references (paper, ebook, repo, tool, etc) that's in
   - classifier SVM classifier
   - CNN
   - Cross Validation
+- Image Captioning and Detection
+  - RNN, Attention, Transformer
+  - Positional Encoding
+- Video, Generative model and Self-Supervised Learning
 
 ### Compression
 

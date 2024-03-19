@@ -11,7 +11,7 @@ A collection of my *Visual Computing Projects*, including
 | I\O                 | Image             | Knowledge                |
 | ------------------- | ----------------- | ------------------------ |
 | **Image**     | Image Processing  | Computer Vision          |
-| **Knowledge** | Computer Graphics | Aritificial Intelligence |
+| **Knowledge** | Computer Graphics | Artificial Intelligence |
 
 ![Relationship_CV](Asset/Relationship_CV.png)
 

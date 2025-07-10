@@ -1,12 +1,5 @@
 # Visual Computing
 
-A collection of my *Visual Computing Projects*, including
-
-- Graphics
-- Vision
-- Signal Processing / Image Processing
-- Compression
-- Game Engines and others.
 
 | I\O                 | Image             | Knowledge                |
 | ------------------- | ----------------- | ------------------------ |
@@ -17,7 +10,21 @@ A collection of my *Visual Computing Projects*, including
 
 In addition, there are also references (paper, ebook, repo, tool, etc) that's interesting and helpful, ranging from beginner to advanced.
 
+
+## My surveys
+
+My surveys of
+- [Hair modeling and rendering](./Asset/hair-survey.html)
+
+
 ## My Projects
+
+A collection of my *Visual Computing Projects*, including
+
+- Graphics, Vision
+- Signal Processing / Image Processing
+- Compression
+- Game Engines and others.
 
 ### Graphics and Rendering
 
